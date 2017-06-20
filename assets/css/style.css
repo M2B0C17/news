@@ -21,19 +21,27 @@
 	background-color: red;
 	color: white;
 	width: 60px;
-	height: 50px;
+	height: 47px;
 	font-size: 25px;
 	padding-left: 17px;
 	padding-top: 11px;
 }
 
 .cajaIcono{
-	padding-left: 27%;
+	padding-left: 94%;
 }
 
 
 .linkss:hover{
 	color: #D40D12;
+}
+
+ul{
+	border-bottom: 1px solid red;
+}
+
+.menu a:hover{
+	border-bottom: 2px solid red;
 }
 
 /*FOOTER*/
