@@ -1,1 +1,44 @@
 /* Holiii otra vez */
+/*NEWS.*/
+.puntoRojo{
+	font-size: 45px;
+	color: red;
+}
+
+/*Menú*/
+
+.menu{
+	background-color: white;
+	width: 90%;
+}
+
+.linkss{
+	color: black;
+	text-transform: uppercase;
+}
+
+.cajaIcono i{
+	background-color: red;
+	color: white;
+	width: 60px;
+	height: 50px;
+	font-size: 25px;
+	padding-left: 17px;
+	padding-top: 11px;
+}
+
+.cajaIcono{
+	padding-left: 27%;
+}
+
+
+.linkss:hover{
+	color: #D40D12;
+}
+
+/*FOOTER*/
+footer{
+  width: 100%;
+  height: 100px;
+  padding-top: 10%;
+}
