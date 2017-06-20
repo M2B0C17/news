@@ -9,7 +9,7 @@
 
 .menu{
 	background-color: white;
-	width: 90%;
+	width: 100%;
 }
 
 .linkss{
@@ -43,6 +43,22 @@ ul{
 .menu a:hover{
 	border-bottom: 2px solid red;
 }
+
+/*SECCIÓN 2*/
+
+.cajaSec2{
+	padding-top: 5%;
+}
+
+.fot2{
+	padding-left: 2.5%;
+}
+
+.fot2A{
+	padding-top: 3.5%;
+	padding-right: 32%;
+}
+
 
 /*FOOTER*/
 footer{
